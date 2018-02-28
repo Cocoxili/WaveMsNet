@@ -1,0 +1,70 @@
+ESC-10:
+    Fire crackling: 0
+    Dog bark: 1
+    Rain: 2
+    Sea waves: 3
+    Baby cry: 4
+    Clock tick: 5
+    Person sneeze: 6
+    Helicopter: 7
+    Chainsaw: 8
+    Rooster: 9
+#    Fire crackling: 10
+
+
+ESC-50:
+    Hand saw: 0
+    Dog: 1
+    Rooster: 2
+    Pig: 3
+    Cow: 4
+    Frog: 5
+    Cat: 6
+    Hen: 7
+    Insects (flying): 8
+    Sheep: 9
+    Crow: 10
+
+    Rain: 11
+    Sea waves: 12
+    Crackling fire: 13
+    Crickets: 14
+    Chirping birds: 15
+    Water drops: 16
+    Wind: 17
+    Pouring water: 18
+    Toilet flush: 19
+    Thunderstorm: 20
+
+    Crying baby: 21
+    Sneezing: 22
+    Clapping: 23
+    Breathing: 24
+    Coughing: 25
+    Footsteps: 26
+    Laughing: 27
+    Brushing teeth: 28
+    Snoring: 29
+    Drinking - sipping: 30
+
+    Door knock: 31
+    Mouse click: 32
+    Keyboard typing: 33
+    Door - wood creaks: 34
+    Can opening: 35
+    Washing machine: 36
+    Vacuum cleaner: 37
+    Clock alarm: 38
+    Clock tick: 39
+    Glass breaking: 40
+
+    Helicopter: 41
+    Chainsaw: 42
+    Siren: 43
+    Car horn: 44
+    Engine: 45
+    Train: 46
+    Church bells: 47
+    Airplane: 48
+    Fireworks: 49
+#    Hand saw: 50
