@@ -1,0 +1,80 @@
+007 - Helicopter/4-125929-A.ogg	6
+007 - Helicopter/4-161579-A.ogg	6
+007 - Helicopter/4-161579-B.ogg	6
+007 - Helicopter/4-175000-A.ogg	6
+007 - Helicopter/4-175000-B.ogg	6
+007 - Helicopter/4-175000-C.ogg	6
+007 - Helicopter/4-193480-A.ogg	6
+007 - Helicopter/4-193480-B.ogg	6
+006 - Person sneeze/4-156843-A.ogg	5
+006 - Person sneeze/4-156844-A.ogg	5
+006 - Person sneeze/4-157297-A.ogg	5
+006 - Person sneeze/4-167642-A.ogg	5
+006 - Person sneeze/4-171519-A.ogg	5
+006 - Person sneeze/4-184434-A.ogg	5
+006 - Person sneeze/4-185415-A.ogg	5
+006 - Person sneeze/4-185619-A.ogg	5
+009 - Rooster/4-164021-A.ogg	8
+009 - Rooster/4-164064-A.ogg	8
+009 - Rooster/4-164064-B.ogg	8
+009 - Rooster/4-164064-C.ogg	8
+009 - Rooster/4-164859-A.ogg	8
+009 - Rooster/4-170078-A.ogg	8
+009 - Rooster/4-183487-A.ogg	8
+009 - Rooster/4-208021-A.ogg	8
+008 - Chainsaw/4-149294-A.ogg	7
+008 - Chainsaw/4-149294-B.ogg	7
+008 - Chainsaw/4-157611-A.ogg	7
+008 - Chainsaw/4-157611-B.ogg	7
+008 - Chainsaw/4-165823-A.ogg	7
+008 - Chainsaw/4-165823-B.ogg	7
+008 - Chainsaw/4-169127-A.ogg	7
+008 - Chainsaw/4-169127-B.ogg	7
+001 - Dog bark/4-182395-A.ogg	0
+001 - Dog bark/4-183992-A.ogg	0
+001 - Dog bark/4-184575-A.ogg	0
+001 - Dog bark/4-191687-A.ogg	0
+001 - Dog bark/4-192236-A.ogg	0
+001 - Dog bark/4-194754-A.ogg	0
+001 - Dog bark/4-199261-A.ogg	0
+001 - Dog bark/4-207124-A.ogg	0
+002 - Rain/4-160999-A.ogg	1
+002 - Rain/4-161127-A.ogg	1
+002 - Rain/4-163264-A.ogg	1
+002 - Rain/4-164206-A.ogg	1
+002 - Rain/4-166661-A.ogg	1
+002 - Rain/4-177250-A.ogg	1
+002 - Rain/4-180380-A.ogg	1
+002 - Rain/4-181286-A.ogg	1
+003 - Sea waves/4-167063-A.ogg	2
+003 - Sea waves/4-167063-B.ogg	2
+003 - Sea waves/4-167063-C.ogg	2
+003 - Sea waves/4-182613-A.ogg	2
+003 - Sea waves/4-182613-B.ogg	2
+003 - Sea waves/4-195497-A.ogg	2
+003 - Sea waves/4-195497-B.ogg	2
+003 - Sea waves/4-204618-A.ogg	2
+004 - Baby cry/4-167077-A.ogg	3
+004 - Baby cry/4-167077-B.ogg	3
+004 - Baby cry/4-167077-C.ogg	3
+004 - Baby cry/4-185575-A.ogg	3
+004 - Baby cry/4-185575-B.ogg	3
+004 - Baby cry/4-185575-C.ogg	3
+004 - Baby cry/4-59579-A.ogg	3
+004 - Baby cry/4-59579-B.ogg	3
+010 - Fire crackling/4-164661-A.ogg	9
+010 - Fire crackling/4-164661-B.ogg	9
+010 - Fire crackling/4-170247-A.ogg	9
+010 - Fire crackling/4-170247-B.ogg	9
+010 - Fire crackling/4-171207-A.ogg	9
+010 - Fire crackling/4-181563-A.ogg	9
+010 - Fire crackling/4-182368-A.ogg	9
+010 - Fire crackling/4-182369-A.ogg	9
+005 - Clock tick/4-175945-A.ogg	4
+005 - Clock tick/4-179984-A.ogg	4
+005 - Clock tick/4-181035-A.ogg	4
+005 - Clock tick/4-181865-A.ogg	4
+005 - Clock tick/4-188033-A.ogg	4
+005 - Clock tick/4-191327-A.ogg	4
+005 - Clock tick/4-194711-A.ogg	4
+005 - Clock tick/4-198965-A.ogg	4

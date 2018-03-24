@@ -24,9 +24,9 @@ def get_pkl(fs):
     for fold_num in range(5):
 
         print('get pkl on fold ', str(fold_num))
-        trainWaveName = '../evaluate-setup-ESC10/fold' + str(fold_num) + '_train.txt'
+        trainWaveName = '../cross_folds/evaluate-setup-ESC10/fold' + str(fold_num) + '_train.txt'
         # validWaveName = '../evaluate-setup/fold' + str(fold_num) + '_valid.txt'
-        testWaveName = '../evaluate-setup-ESC10/fold' + str(fold_num) + '_test.txt'
+        testWaveName = '../cross_folds/evaluate-setup-ESC10/fold' + str(fold_num) + '_test.txt'
         trainWaveList = get_fold_wavelist(trainWaveName)
         # validWaveList = get_fold_wavelist(validWaveName)
         testWaveList = get_fold_wavelist(testWaveName)
