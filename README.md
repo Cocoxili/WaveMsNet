@@ -1,5 +1,5 @@
 ## WaveMsNet
-![WaveMsNet](http://)
+![WaveMsNet](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/WaveMsNet.png)
 
 This work is submitted to IJCNN 2018, paper will be published soon.
 
@@ -70,11 +70,11 @@ Parameters can be changed in this file. For example: *batch_size, epochs, learni
 
 ### Other network
 
-![Compare with other network](http://)
+![Compare with other network](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/comparison.png)
 
 We employ different backend networks, all of which are widely used and well-preformed in the field of image. They are AlexNet, VGG (11 layers with BN) and ResNet (50-layers). The multi-scale models consistently outperform single-scale models. It indicates that multi-scale models have a wide range of effectiveness. 
 ### Confusion matrix
 
-![Confusion matrix](http://)
+![Confusion matrix](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/confusion_matrix.png)
 
 ESC-50 is more challenge than ESC-10 dataset, we report the confusion matrix across all folds on ESC-50. The results suggest our approach obtains very good performance on most categories, such as baby crying (95% accuracy) or clock alarm (97% accuracy). Common confusions are helicopter confused as airplane, vacuum cleaner confused as train. Actually, these sounds are also challenge for human to distinguish.
