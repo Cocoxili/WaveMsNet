@@ -51,7 +51,7 @@ Librosa 0.5.1
 ## Data preparation
 
 ### Download datasets
-Dataset for Environmental Sound Classification could be downloaded [here] (https://github.com/karoldvl/ESC-50).
+Dataset for Environmental Sound Classification could be downloaded [here](https://github.com/karoldvl/ESC-50).
 
 ### Divide audios into 5-cross-folds
 	cd cross_folds/src
