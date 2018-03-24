@@ -1,16 +1,13 @@
 ## WaveMsNet
+
+**Task:** Environment sounds classification
+
+**Abstract**—Deep learning has dramatically improved the perfor- mance of sounds recognition. However, learning acoustic models directly from the raw waveform is still challenging. Current waveform-based models generally use time-domain convolutional layers to extract features. The features extracted by single size filters are insufficient for building discriminative representation of audios. In this paper, we propose multi-scale convolution operation, which can get better audio representation by improving the frequency resolution and learning filters cross all frequency area. For leveraging the waveform-based features and spectrogram-based features in a single model, we introduce two-phase method to fuse the different features. Finally, we propose a novel end-to-end network called WaveMsNet based on the multi-scale convolution operation and two-phase method. On the environmental sounds classification datasets ESC-10 and ESC-50, the classification accuracies of our WaveMsNet achieve 93.75% and 79.10% respectively, which improve significantly from the previous methods.
+
 ![WaveMsNet](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/WaveMsNet.png)
 
 This work is submitted to IJCNN 2018, paper will be published soon.
 
-## Requirments
-Python 3.6
-
-PyTorch 0.3.0
-
-Torchvision 0.2.0
-
-Librosa 0.5.1
 
 ## Files structure
 	
@@ -42,6 +39,15 @@ Librosa 0.5.1
 	    ├── network.py
 	    └── util.py
 	    
+## Requirments
+Python 3.6
+
+PyTorch 0.3.0
+
+Torchvision 0.2.0
+
+Librosa 0.5.1
+
 ## Data preparation
 
 ### Download datasets
