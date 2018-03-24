@@ -1,5 +1,8 @@
 # coding:utf-8
+"""
+_author = Boqing Zhu
 
+"""
 import librosa
 import wave
 import numpy as np
