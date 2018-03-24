@@ -13,7 +13,35 @@ Torchvision 0.2.0
 Librosa 0.5.1
 
 ## Files structure
-
+	
+	./
+	├── LICENSE
+	├── README.md
+	├── cross_fold
+	│   ├── evaluate-setup-ESC10
+	│   │   ├── fold0_test.txt
+	│   │   ├── ...
+	│   │   └── fold4_valid.txt
+	│   ├── evaluate-setup-ESC50
+	│   │   ├── fold0_test.txt
+	│   │   ├── ...
+	│   │   └── fold4_valid.txt
+	│   └── src
+	│       ├── ESC10.audiolist
+	│       ├── ESC50.audiolist
+	│       └── make_files.py
+	├── figures
+	│   ├── WaveMsNet.png
+	│   ├── comparison.png
+	│   └── confusion_matrix.png
+	└── src
+	    ├── data_process.py
+	    ├── data_transform.py
+	    ├── id_lb.yaml
+	    ├── main.py
+	    ├── network.py
+	    └── util.py
+	    
 ## Data preparation
 
 ### Download datasets
