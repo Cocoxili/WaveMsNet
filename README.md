@@ -86,16 +86,9 @@ Epoch:3 (11.1s) lr:0.01  samples:1200  Loss:3.389  TrainAcc:10.17%
 Epoch:4 (11.1s) lr:0.01  samples:1200  Loss:3.117  TrainAcc:16.17%
 Epoch:5 (11.1s) lr:0.01  samples:1200  Loss:2.937  TrainAcc:19.08%
 ...
-Epoch:79 (12.0s) lr:0.001  samples:1200  Loss:0.459  TrainAcc:85.92%
-Epoch:80 (12.0s) lr:0.001  samples:1200  Loss:0.476  TrainAcc:85.83%
-
 Test set: Average loss: 17.967 (18.9s), TestACC: 260/400 65.00%
 
 model has been saved as: ../model/WaveMsNet_fold0_epoch80.pkl
-Epoch:81 (12.0s) lr:0.001  samples:1200  Loss:0.477  TrainAcc:86.50%
-Epoch:82 (12.0s) lr:0.001  samples:1200  Loss:0.445  TrainAcc:86.42%
-Epoch:83 (12.0s) lr:0.001  samples:1200  Loss:0.460  TrainAcc:86.25%
-Epoch:84 (12.0s) lr:0.001  samples:1200  Loss:0.424  TrainAcc:87.50%
 ...
 ```
 Parameters can be changed in this file. For example: *batch_size, epochs, learning_rate, momentum, network, ...*
