@@ -74,7 +74,7 @@ Then, we store them with pickle format.
 
 ## Network training
 
-	python main.py argument
+	python main.py --argument='...'
 	python main.py --mode=test --mode='...'
 	
 You will see the training process:
