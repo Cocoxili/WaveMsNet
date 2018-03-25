@@ -1,6 +1,6 @@
 """ usage:
     python main.py
-    python main.py --network=dnn --mode=test --model='../model/dnn_mix.pkl'
+    python main.py --network=WaveMsNet --mode=test --model='../model/dnn_mix.pkl'
 
 """
 import argparse
@@ -15,13 +15,13 @@ parser.add_argument('--batch-size', type=int, default=32, metavar='N',
                             help='input batch size for training (default: 64)')
 parser.add_argument('--test-batch-size', type=int, default=18, metavar='N',
                             help='input batch size for testing (default: 5)')
-parser.add_argument('--epochs', type=int, default=160, metavar='N',
-                            help='number of epochs to train (default: 10)')
-parser.add_argument('--lr', type=float, default=0.01, metavar='LR',
-                            help='learning rate (default: 0.001)')
-parser.add_argument('--momentum', type=float, default=0.9, metavar='M',
-                            help='SGD momentum (default: 0.9)')
-parser.add_argument('--weight_decay', type=float, default=5e-4, metavar='M',
+parser.add_argument('--epochs', type=int,  metavar='N',
+                            help='number of epochs to train')
+parser.add_argument('--lr', type=float,  metavar='LR',
+                            help='initial learning rate')
+parser.add_argument('--momentum', type=float,  metavar='M',
+                            help='SGD momentum')
+parser.add_argument('--weight_decay', type=float, metavar='M',
                             help='weight decay')
 parser.add_argument('--no-cuda', action='store_true', default=False,
                             help='disables CUDA training')
@@ -33,8 +33,7 @@ parser.add_argument('--log-interval', type=int, default=20, metavar='N',
                             help='how many batches to wait before logging training status')
 parser.add_argument('--model_save_interval', type=int, default=40, metavar='N',
                             help='how many epochs to wait before saving the model.')
-parser.add_argument('--network', type=str, default='WaveMsNet',
-                            help='WaveMsNet or WaveMsNet_Logmel')
+parser.add_argument('--network', type=str, help='WaveMsNet or WaveMsNet_Logmel')
 parser.add_argument('--mode', type=str, default='train',
                             help='train or test')
 parser.add_argument('--model', type=str, default='../model/WaveMsNet_fold0_v2_epoch120.pkl',
@@ -43,7 +42,7 @@ parser.add_argument('--train_slices', type=int, default=1,
                             help='slices number of one record divide into.')
 parser.add_argument('--test_slices_interval', type=int, default=0.2,
                             help='slices number of one record divide into.')
-parser.add_argument('--fs', type=int, default=44100)
+parser.add_argument('--fs', type=int)
 
 
 os.environ['CUDA_VISIBLE_DEVICES'] = "1"

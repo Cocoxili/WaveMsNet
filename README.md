@@ -74,8 +74,9 @@ Then, we store them with pickle format.
 
 ## Network training
 
-	python main.py
-
+	python main.py argument
+	python main.py --mode=test --mode='...'
+	
 You will see the training process:
 
 ```
@@ -91,7 +92,7 @@ Test set: Average loss: 17.967 (18.9s), TestACC: 260/400 65.00%
 model has been saved as: ../model/WaveMsNet_fold0_epoch80.pkl
 ...
 ```
-Parameters can be changed in this file. For example: *batch_size, epochs, learning_rate, momentum, network, ...*
+Parameters could be changed. For example: *batch_size, epochs, learning_rate, momentum, network, ...*
 
 ## Result analysis
 
