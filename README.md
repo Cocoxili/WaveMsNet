@@ -1,3 +1,16 @@
+## Citing
+
+The article for this method can be downloaded [**here**](https://arxiv.org/abs/1803.10219). Please cite this work in your pulications if it helps your research.
+
+```
+@article{zhu2018learning,
+  title={Learning Environmental Sounds with Multi-scale Convolutional Neural Network},
+  author={Zhu, Boqing and Wang, Changjian and Liu, Feng and Lei, Jin and Lu, Zengquan and Peng, Yuxing},
+  journal={arXiv preprint arXiv:1803.10219},
+  year={2018}
+}
+```
+
 ## WaveMsNet
 
 **Task:** Environment sounds classification
@@ -100,7 +113,8 @@ Parameters could be changed. For example: *batch_size, epochs, learning_rate, mo
 
 ![Compare with other network](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/comparison.png)
 
-We employ different backend networks, all of which are widely used and well-preformed in the field of image. They are AlexNet, VGG (11 layers with BN) and ResNet (50-layers). The multi-scale models consistently outperform single-scale models. It indicates that multi-scale models have a wide range of effectiveness. 
+We employ different backend networks, all of which are widely used and well-preformed in the field of image. They are AlexNet, VGG (11 layers with BN) and ResNet (50-layers). The multi-scale models consistently outperform single-scale models. It indicates that multi-scale models have a wide range of effectiveness. 
+
 ### Confusion matrix
 
 ![Confusion matrix](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/confusion_matrix.png)
