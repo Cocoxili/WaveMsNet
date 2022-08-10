@@ -3,11 +3,13 @@
 The article for this method can be downloaded [**here**](https://arxiv.org/abs/1803.10219). Please cite this work in your pulications if it helps your research.
 
 ```
-@article{zhu2018learning,
-  title={Learning Environmental Sounds with Multi-scale Convolutional Neural Network},
-  author={Zhu, Boqing and Wang, Changjian and Liu, Feng and Lei, Jin and Lu, Zengquan and Peng, Yuxing},
-  journal={arXiv preprint arXiv:1803.10219},
-  year={2018}
+@inproceedings{zhu2018learning,
+  title={Learning environmental sounds with multi-scale convolutional neural network},
+  author={Zhu, Boqing and Wang, Changjian and Liu, Feng and Lei, Jin and Huang, Zhen and Peng, Yuxing and Li, Fei},
+  booktitle={2018 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
 }
 ```
 
