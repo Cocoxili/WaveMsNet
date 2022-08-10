@@ -21,8 +21,6 @@ The article for this method can be downloaded [**here**](https://arxiv.org/abs/1
 
 ![WaveMsNet](https://github.com/Black-Black-Man/WaveMsNet/blob/master/figures/WaveMsNet.png)
 
-This work is submitted to IJCNN 2018, paper will be published soon.
-
 
 ## Files structure
 	
